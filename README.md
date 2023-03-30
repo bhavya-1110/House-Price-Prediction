@@ -23,3 +23,6 @@ src: contains the source code files
 - Navigate to the notebooks directory ad open the House_Price_Prediction.ipynb file
 - Follow the instructions in the notebook to install necessary dependencies and run the code.
 - The notebook will generate output files in the output directory
+
+<h5> CONCLUSION </h5>
+House price prediction is an important task in the real estate industry. This project provides a framework for predicting house prices using regression techniques. The project utilizes a popular dataset and provides an easy-to-follow codebase that can be used as a starting point for further exploration and development.
