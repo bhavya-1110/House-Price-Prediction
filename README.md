@@ -1,4 +1,4 @@
-<h5> HOUSE-PRICE PREDICTION </h5>
+<h2 align="center"> HOUSE-PRICE PREDICTION </h2>
 Welcome to the House Price Prediction project! This project is aimed at predicting the price of a house based on various features using regression techniques. This README file will guide you through the project and provide you with all the necessary information to run the code and reproduce the results.
 
 
